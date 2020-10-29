@@ -1,0 +1,11 @@
+[package]
+name = "dogchat"
+version = "0.1.0"
+authors = ["Ellen Marie Dash <me@duckie.co>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+iced = "0.1"
